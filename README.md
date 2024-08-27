@@ -10,4 +10,5 @@ This repository contains a fully responsive navigation bar designed with HTML an
 1. **Clone this repository:** git clone `https://github.com/bivumaji/Responsive-Navbar.git`
 2. Open index.html in your browser to see the navbar.
 
-   **Thank You ❤️**
+
+**Thank You ❤️**
